@@ -113,7 +113,7 @@
     - Priority: P3
     - Key files: Sql4CdsConnection.cs, Sql4CdsCommand.cs, Sql4CdsDataReader.cs
 
-- [ ] **Generate spec: metadata-caching.md** <!-- id: spec-meta -->
+- [x] **Generate spec: metadata-caching.md** <!-- id: spec-meta -->
     - Source: MarkMpn.Sql4Cds.Engine/ (AttributeMetadataCache, MessageCache, TableSizeCache)
     - Priority: P3
     - Key files: AttributeMetadataCache.cs, MessageCache.cs, TableSizeCache.cs
