@@ -123,7 +123,7 @@
     - Priority: P4
     - Key files: Program.cs, IJsonRpcMethodHandler.cs, Connection/ConnectionManager.cs
 
-- [ ] **Generate spec: export-system.md** <!-- id: spec-export -->
+- [x] **Generate spec: export-system.md** <!-- id: spec-export -->
     - Source: MarkMpn.Sql4Cds.Export/
     - Priority: P4
     - Key files: DataStorage/IFileStreamFactory.cs, various writers
