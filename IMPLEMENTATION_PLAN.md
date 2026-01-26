@@ -103,7 +103,7 @@
     - Priority: P2
     - Key files: FetchXml2Sql.cs, ExecutionPlan/FetchXmlScan.cs, FetchXml.cs
 
-- [ ] **Generate spec: query-optimization.md** <!-- id: spec-optim -->
+- [x] **Generate spec: query-optimization.md** <!-- id: spec-optim -->
     - Source: MarkMpn.Sql4Cds.Engine/ (ExecutionPlanOptimizer)
     - Priority: P3
     - Key files: ExecutionPlanOptimizer.cs, FetchXmlElementComparer.cs
