@@ -88,7 +88,7 @@
     - Priority: P1
     - Key files: IExecutionPlanNode.cs, IDataExecutionPlanNode.cs, BaseNode.cs, NodeSchema.cs
 
-- [ ] **Generate spec: query-compilation.md** <!-- id: spec-compile -->
+- [x] **Generate spec: query-compilation.md** <!-- id: spec-compile -->
     - Source: MarkMpn.Sql4Cds.Engine/ (ExecutionPlanBuilder, Visitors/)
     - Priority: P2
     - Key files: ExecutionPlanBuilder.cs, Visitors/RewriteVisitor.cs
