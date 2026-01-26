@@ -93,7 +93,7 @@
     - Priority: P2
     - Key files: ExecutionPlanBuilder.cs, Visitors/RewriteVisitor.cs
 
-- [ ] **Generate spec: expression-evaluation.md** <!-- id: spec-expr -->
+- [x] **Generate spec: expression-evaluation.md** <!-- id: spec-expr -->
     - Source: MarkMpn.Sql4Cds.Engine/ (ExpressionExtensions, ExpressionFunctions)
     - Priority: P2
     - Key files: ExecutionPlan/ExpressionExtensions.cs, ExpressionFunctions.cs
