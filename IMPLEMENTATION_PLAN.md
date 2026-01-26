@@ -98,7 +98,7 @@
     - Priority: P2
     - Key files: ExecutionPlan/ExpressionExtensions.cs, ExpressionFunctions.cs
 
-- [ ] **Generate spec: fetchxml-translation.md** <!-- id: spec-fetchxml -->
+- [x] **Generate spec: fetchxml-translation.md** <!-- id: spec-fetchxml -->
     - Source: MarkMpn.Sql4Cds.Engine/ (FetchXml*, FetchXmlScan)
     - Priority: P2
     - Key files: FetchXml2Sql.cs, ExecutionPlan/FetchXmlScan.cs, FetchXml.cs
