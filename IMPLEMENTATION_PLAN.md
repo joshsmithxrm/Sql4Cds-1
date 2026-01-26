@@ -83,7 +83,7 @@
     - Priority: P1
     - Key files: ExecutionPlan/SqlTypeConverter.cs, DataTypeHelpers.cs, SqlVariant.cs, SqlDateTypes.cs
 
-- [ ] **Generate spec: execution-plan-nodes.md** <!-- id: spec-nodes -->
+- [x] **Generate spec: execution-plan-nodes.md** <!-- id: spec-nodes -->
     - Source: MarkMpn.Sql4Cds.Engine/ExecutionPlan/
     - Priority: P1
     - Key files: IExecutionPlanNode.cs, IDataExecutionPlanNode.cs, BaseNode.cs, NodeSchema.cs
