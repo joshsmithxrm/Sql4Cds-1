@@ -108,7 +108,7 @@
     - Priority: P3
     - Key files: ExecutionPlanOptimizer.cs, FetchXmlElementComparer.cs
 
-- [ ] **Generate spec: ado-net-provider.md** <!-- id: spec-ado -->
+- [x] **Generate spec: ado-net-provider.md** <!-- id: spec-ado -->
     - Source: MarkMpn.Sql4Cds.Engine/Ado/
     - Priority: P3
     - Key files: Sql4CdsConnection.cs, Sql4CdsCommand.cs, Sql4CdsDataReader.cs
