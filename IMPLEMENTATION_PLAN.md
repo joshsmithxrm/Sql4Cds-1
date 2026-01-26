@@ -78,7 +78,7 @@
     - Priority: P0 (Blocking - all specs reference this)
     - Key files: MarkMpn.Sql4Cds.Engine.csproj, SessionContext.cs, NodeContext.cs
 
-- [ ] **Generate spec: type-system.md** <!-- id: spec-types -->
+- [x] **Generate spec: type-system.md** <!-- id: spec-types -->
     - Source: MarkMpn.Sql4Cds.Engine/ (SqlTypeConverter, DataTypeHelpers, SqlVariant, SqlDateTypes)
     - Priority: P1
     - Key files: ExecutionPlan/SqlTypeConverter.cs, DataTypeHelpers.cs, SqlVariant.cs, SqlDateTypes.cs
