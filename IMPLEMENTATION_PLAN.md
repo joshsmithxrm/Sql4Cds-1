@@ -128,7 +128,7 @@
     - Priority: P4
     - Key files: DataStorage/IFileStreamFactory.cs, various writers
 
-- [ ] **Generate spec: host-integrations.md** (Optional) <!-- id: spec-hosts -->
+- [x] **Generate spec: host-integrations.md** (Optional) <!-- id: spec-hosts -->
     - Source: MarkMpn.Sql4Cds.XTB/, MarkMpn.Sql4Cds.SSMS/, AzureDataStudioExtension/
     - Priority: P5
     - Key files: XTB/*.cs, SSMS/*.cs
