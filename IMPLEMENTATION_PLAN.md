@@ -118,7 +118,7 @@
     - Priority: P3
     - Key files: AttributeMetadataCache.cs, MessageCache.cs, TableSizeCache.cs
 
-- [ ] **Generate spec: language-server.md** <!-- id: spec-lsp -->
+- [x] **Generate spec: language-server.md** <!-- id: spec-lsp -->
     - Source: MarkMpn.Sql4Cds.LanguageServer/
     - Priority: P4
     - Key files: Program.cs, IJsonRpcMethodHandler.cs, Connection/ConnectionManager.cs
